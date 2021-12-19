@@ -8,9 +8,9 @@
 - ⚡ Dato curioso: <b>Sabías que el colaborar y enseñar a otros genera un alto aprendizaje y amistades sólidas.</b> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19lheg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19lheg)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=19lheg&show_icons=true)
 
-<p style="text-align:center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=19lheg&show_icons=true)  </p>
+
  
 
 

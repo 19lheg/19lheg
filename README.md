@@ -4,9 +4,6 @@
 
 
 
-
-Habilidades: JS / HTML / CSS  / MySQL / 
-
 - 📫 Cómo contactarme: 19lheg@gmail.com 
 - ⚡ Dato curioso: Sabías que el colaborar y enseñar a otros genera un alto aprendizaje y amistades sólidas. 
 
@@ -14,7 +11,6 @@ Habilidades: JS / HTML / CSS  / MySQL /
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19lheg)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=19lheg&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=19lheg)  
+ 
 
 

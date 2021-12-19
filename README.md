@@ -1,7 +1,5 @@
-### Hi there 👋
 <h1 align = "center"> Hola 👋, soy Luis </h1>
 <h3 align = "center"> Un poco de mi: </h3>
-![Banner git](https://user-images.githubusercontent.com/91930704/146664965-7bb4a2a6-aba9-4f9a-858e-1f7c76ac95fc.gif)
 
 - 📫 Cómo comunicarse conmigo **19lheg@gmail.com* *
 
